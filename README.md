@@ -21,5 +21,4 @@
 
 ### Flujo de Código.
 
-
-![Alt text](https://goo.gl/PFJdwS)
+![img](https://image.ibb.co/eWrYrw/Diagrama_de_flujo_Cesar.png)
