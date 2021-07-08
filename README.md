@@ -3,7 +3,7 @@
 **Este código tiene la particularidad de cifrar y también descifrar frases que ingresa el usuario. Utilizando ASCII, que es una forma estándar de representar caracteres y símbolos de forma electrónica.**
 
 #### Trabajo realizado por:
- "María Paz Thompson" <m.paz.thompson@gmail.com>
+ "María Paz Thompson"
 
 
 
